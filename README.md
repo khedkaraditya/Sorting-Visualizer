@@ -12,7 +12,7 @@ Sorting Visualizer is a web-based application that allows users to visualize var
 
 ## Usage
 
-1. Clone the repository: https://github.com/purviljain9/Sorting-Visualizer
+1. Clone the repository: https://github.com/khedkaraditya/Sorting-Visualizer.git
 2. Open the `index.html` file in a web browser.
 3. Specify the size of the array and click on the "Generate New Array" button.
 4. Choose a sorting algorithm from the available options.
