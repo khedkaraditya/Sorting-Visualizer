@@ -28,7 +28,7 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to me at purviljain008@gmail.com.
+If you have any questions or suggestions, feel free to reach out to me at khedkaraditya4917@gmail.com.
 
 
 
