@@ -20,7 +20,7 @@ Sorting Visualizer is a web-based application that allows users to visualize var
 
 ## Demo
 
-You can check out a live demo of the Sorting Visualizer [here](https://github.com/purviljain9/Sorting-Visualizer).
+You can check out a live demo of the Sorting Visualizer [here]https://github.com/khedkaraditya/Sorting-Visualizer.git.
 
 ## Contributing
 
